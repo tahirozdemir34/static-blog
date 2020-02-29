@@ -161,3 +161,21 @@ id = "weibo"
 url = "https://weibo.com/%s"
 title = "Weibo"
 icon = "fab fa-weibo"
+
+[[social_icons]]
+id = "medium"
+url = "https://medium.com/@%s"
+title = "Medium"
+icon = "fab fa-medium"
+
+[[social_icons]]
+id = "home"
+url = "%s"
+title = "Home"
+icon = "fas fa-address-card"
+
+[[social_icons]]
+id = "resume"
+url = "%s"
+title = "CV"
+icon = "fas fa-file-alt"

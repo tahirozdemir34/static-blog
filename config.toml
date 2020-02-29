@@ -10,6 +10,9 @@ paginate = 5
     github = "tahirozdemir34"         #Github username
     linkedin = "tahir-özdemir-8902aa188"       #LinkedIn username
     twitter = "tahirzdmr"        #Twitter username
+    medium = "tahirozdemir34"
+    home = "http://me.tahirozdemir.com"
+    resume = "http://cv.tahirozdemir.com"
 
 
 [permalinks]
