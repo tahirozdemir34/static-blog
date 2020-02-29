@@ -3,6 +3,7 @@ languageCode = "tr-tr"
 title = "Tahir Özdemir"
 theme = "hugo-kiera"
 pygmentsCodeFences = true
+disqusShortname = "tahirozdemir" #Disqus shortname
 paginate = 5
 
 [author]
