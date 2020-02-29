@@ -1,4 +1,4 @@
-baseURL = "http://test.tahirozdemir.com/"
+baseURL = "http://www.tahirozdemir.com/"
 languageCode = "tr-tr"
 title = "Tahir Özdemir"
 theme = "hugo-kiera"
