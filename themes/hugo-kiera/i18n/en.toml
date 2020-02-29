@@ -1,0 +1,21 @@
+[categories]
+other = "Kategoriler:"
+
+[readingTime]
+one = "1 dakikalık okuma"
+other = "{{.Count}} dakikalık okuma"
+
+[readMore]
+other = "Okumaya Devam Et"
+
+[draft]
+other = "TASLAK"
+
+[subscribe]
+other = "Abone ol"
+
+[rendered]
+other = "Rendered by"
+
+[comments]
+other = "Yorumlar"

@@ -1,0 +1,16 @@
+baseURL = "http://test.tahirozdemir.com/"
+languageCode = "tr-tr"
+title = "Tahir Özdemir"
+theme = "hugo-kiera"
+pygmentsCodeFences = true
+paginate = 5
+
+[author]
+    name = "Tahir Özdemir"           #Author name
+    github = "tahirozdemir34"         #Github username
+    linkedin = "tahir-özdemir-8902aa188"       #LinkedIn username
+    twitter = "tahirzdmr"        #Twitter username
+
+
+[permalinks]
+  posts = "/:year/:month/:filename/"

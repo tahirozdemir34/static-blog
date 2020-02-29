@@ -1,0 +1,21 @@
+---
+title: 'Stygian: Reign of The Old Ones'
+date: '2016-03-22T18:23:00+00:00'
+status: publish
+---
+[![](https://4.bp.blogspot.com/-yQdV00LIA28/VvF4g5Y_SaI/AAAAAAAAAHE/WHTxChdP01sfyexVL0qgpGW7l-MjTWQYg/s320/yaz%25C4%25B1%2Bkapak.jpg#mid)](https://4.bp.blogspot.com/-yQdV00LIA28/VvF4g5Y_SaI/AAAAAAAAAHE/WHTxChdP01sfyexVL0qgpGW7l-MjTWQYg/s1600/yaz%25C4%25B1%2Bkapak.jpg)  
+
+Her sene onlarca yeni oyun piyasaya çıkmakta ve ben sadece çok az bir kısmı için heyecan duymaktayım. Hele ki konu bağımsız yapımlar olunca, beklemeye değecek daha da az oyun kalıyor. Hadi biraz daha zorlayım ve bağımsız yerli yapımlara indireyim çıtayı. No:70 ve Mount & Blade: Bannerlord bu noktada en çok beklediğim yapımlar. Bannerlord için son yayınlanan oynanış görüntülerinden sonra sabırsızlığım biraz daha arttı. Şayet izlemediysen en kısa zamanda izlemeni şiddetle tavsiye ederim sevgili okur. Dur yahu nereye gidiyorsun, bari yazıyı bitirseydim. Hah devam edeyim o zaman…
+
+[![](https://3.bp.blogspot.com/-IJh9sYf0Sfc/VvF4vy8yROI/AAAAAAAAAHM/p68-d3cmixA4HuoxIsYyfjQ9GRwgjkTDw/s320/Stygian.jpg#mid)](https://3.bp.blogspot.com/-IJh9sYf0Sfc/VvF4vy8yROI/AAAAAAAAAHM/p68-d3cmixA4HuoxIsYyfjQ9GRwgjkTDw/s1600/Stygian.jpg)  
+
+İşte böyle bir anda çıkageldi şu oyun karşıma. El çizimi grafikler, sıra tabanlı stratejik dövüş sistemi, rol yapma ögeleri derken bir anda kendi çıtasını aşıp en çok beklediğim oyunlar arasında yerini almayı başardı. Kısaca bahsetmek gerekirse, Stygian, H.P. Lovecraft’ın Cthulu mitosunda etkilenmiş hatta etkilenmekle kalmayıp tüm hikayeyi, karakterleri ve mekanikleri bu mitos üzerine kurmuş yerli bir oyun. Dürüst olayım, bu mitos ile çok yakın bir alakam yok. Tecrübe ettiğim tek örnek Call of Cthulu adlı güzide oyundur. Karanlık ve gergin atmosferi ile sizi sürekli olarak diken üstünde tutan bu yapım, doğal olarak Cthulu mitosuna olan ilgimin de artmasına sebep olmuştu. Mamafih, tüketecek başka kaynağım yoktu. Elbette okunacak kitaplar vardı ama zaten sırada bekleyen onlarca kitabım varken bu mitosu araya sıkıştırmaya çalışmak, hem Lovecraft’a hem de benim kitaplarıma ayıp olurdu. Şimdi ise böyle bir oyunun geliştirilmekte olduğunu duyunca, ne kadar sevindiğimi ve heyecanlandığımı anlamışsınızdır. Sitesindeki özellikler kısmını okurken cidden ağzımın suyu akıyor. Burada üzerinde durmak istediğim bir özellik var: akıl sağlığının oyuna etkisi. Her karakterin kendi kişiliğine özgü bir akıl sağlığı sistemi var. Bir rasyonalist, mitos yaratıkları üzerinde araştırma yaparak akıl sağlığı kazanabiliyor iken; yaratıcıya inanan kimseler, kayıp bir ruhu Tanrı’nın yoluna sevk edince akıl sağlığı kazanabilmekte. Ruhsal durumumuzun ise doğrudan doğruya konuşma seçeneklerine bir etkisi olacağı söyleniyor. Akıl sağlığımız bize engel olabileceği gibi bize destekte olabilicekmiş. Yapımcı “Bazen çılgın bir dünyada, çılgın biri olmak işe yarar” demekte. Diğer bir dikkatimi çeken nokta ise bu evrende büyü yapmanın sandığımız kadar eğlenceli olmadığı. Çoğu zaman feda etmemiz gereken şeyler olacak. Akıl sağlığımız, canımız ve hatta ruhumuz. Oyun boyunca çaban dünyayı kurtarmak olamayacak, o savaş çoktan kaybedildi. Ölüme mahkum bu dünyada, ya kurtuluş için kendi amaçlarını takip edeceksin ya da intikam için mücadele edeceksin. Hala oyuna karşı bir merakın yok ise şu görsele bir bakıver:
+
+[![](https://1.bp.blogspot.com/-JH_L9Ss-hcg/VvF7bjeXBMI/AAAAAAAAAHc/NJFOqKvDBZYjUpNCr3_-HYQNgwGgNGrdw/s320/ourbeautifuldoom.jpg#mid)](https://1.bp.blogspot.com/-JH_L9Ss-hcg/VvF7bjeXBMI/AAAAAAAAAHc/NJFOqKvDBZYjUpNCr3_-HYQNgwGgNGrdw/s1600/ourbeautifuldoom.jpg)  
+
+Ekipten de bahsedip, oyunu beklemeye devam edeceğim köşeme çekileyim bari. Oyunun kendi sitesinden birebir çeviri yaparsak, yapımcılar kendilerini şöyle tanımlıyor “Lovercraft’ın eserlerini okurken Planescape: Torment, ilk Fallout’lar ve Heroes of Might and Magic oynayarak büyümüş bir ekip”. Cultic Games, İstanbul’da bulunan stüdyoda, bağımsız bir oyun için kalabalık sayılabilecek bir gurup çalışkan insan. Umarım emekleri boşa çıkmaz ve hak ettikleri ilgiyi görebilirler.
+
+Bağlantılar:  
+* Geliştirici Sitesi: <http://www.stygianthegame.com/>  
+* Facebook: <https://www.facebook.com/stygianthegame>  
+* Twitter: <https://twitter.com/stygianthegame>
