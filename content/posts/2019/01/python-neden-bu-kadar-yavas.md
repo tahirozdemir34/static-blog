@@ -4,6 +4,9 @@ date: '2019-01-16T20:31:00+00:00'
 status: publish
 images : ["/posts/uploads/2019/01/python-logo-master-v3-TM-flattened.png"]
 ---
+
+{{< podcast "https://anchor.fm/tahir-ozdemir-podcast/embed/episodes/Python-Neden-Bu-Kadar-Yava-edetuc/a-a22ofrj" >}}
+
 Tekrardan merhabalar. Bu yazıda Python'ın neden yavaş olduğu ve bu yavaşlığa rağmen nasıl bu kadar popüler olabildiği üzerine bazı bilgiler paylaşacağım. Python'ın ne kadar yavaş olduğuna dair şüpheleriniz varsa [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)‘i ziyaret etmenizi şiddetle öneririm. Sadece Python değil C, C++, Java, Go vb. pek çok dil için karşılaştırmalar mevcut. Farklı testler yapılmış ve sonuçlara göre Python rakiplerine nazaran 2-10 kata kadar yavaş çalışıyor. Bunun temelde 3 sebebi var:
 
 - GIL (Global Interpreter Lock)

@@ -4,6 +4,9 @@ date: '2018-07-14T09:50:00+00:00'
 status: publish
 images : ["/posts/uploads/2018/07/spotify.jpg"]
 ---
+
+{{< podcast "https://anchor.fm/tahir-ozdemir-podcast/embed/episodes/Spotifyn-Mzik-neri-Sistemi-Nasl-alyor-edaoai/a-a21suio" >}}
+
 Spotify, 100 milyondan fazla kullanıcısının her birisi için her hafta 30 şarkılık yeni bir "Haftalık Keşfet" listesi hazırlıyor. Binlerce şarkı içerisinden sizin listenizde olmayan ama hoşunuza gidebileceğini düşündüğü bu şarkıları nasıl seçiyor peki? Bir algoritma nasıl oluyor da sizin müzik zevkinizi sizden daha iyi bilebiliyor?
 
 ![](../../../uploads/2018/07/spotify.jpg#mid#mid)
